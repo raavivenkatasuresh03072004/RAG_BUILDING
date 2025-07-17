@@ -15,8 +15,7 @@ This project implements a simple **RAG pipeline** using **LangChain**, **Google 
 - Python
 - LangChain
 - ChromaDB
-- OpenAI (GPT-3.5/GPT-4)
-- FAISS (optional alternative for vector store)
+- Google Vertex AI(gemini-2.5-flash)
 
 ---
 
